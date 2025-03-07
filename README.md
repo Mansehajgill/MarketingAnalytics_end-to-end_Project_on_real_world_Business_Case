@@ -117,6 +117,8 @@ We performed **sentiment analysis** on **customer reviews** to categorize feedba
 ---
 
 ## **📬 Connect With Me**  
-💼 **LinkedIn:** [(https://www.linkedin.com/in/mansehaj-singh-gill-333a82277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4wp4TF49SaSIYTiFWVZC7g%3D%3D)]  
-📧 **Email:** [mansehajgill19@gmail.com]  
+💼 **LinkedIn:** (https://www.linkedin.com/in/mansehaj-singh-gill-333a82277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4wp4TF49SaSIYTiFWVZC7g%3D%3D)
+
+📧 **Email:** mansehajgill19@gmail.com 
+
 🚀 **GitHub:** [Your GitHub Profile]  
