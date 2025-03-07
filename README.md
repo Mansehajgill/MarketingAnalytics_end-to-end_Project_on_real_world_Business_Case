@@ -5,10 +5,10 @@
 
 ## 🏢 Business Context  
 ShopEasy, an **online retail business**, has been struggling with:  
-❌ **Decreasing customer engagement** – Social media views & interactions are dropping  
-❌ **Low conversion rates** – Despite strong seasonal trends, key months underperform  
-❌ **High marketing costs with low ROI** – Need to optimize strategies for better impact  
-❌ **Mixed customer feedback** – Ratings remain stable but below the **4.0 target**  
+ **Decreasing customer engagement** – Social media views & interactions are dropping  
+ **Low conversion rates** – Despite strong seasonal trends, key months underperform  
+ **High marketing costs with low ROI** – Need to optimize strategies for better impact  
+ **Mixed customer feedback** – Ratings remain stable but below the **4.0 target**  
 
 🔍 **Your Role:** As a **Data Analyst**, you conducted a **comprehensive marketing analysis** to identify **engagement drivers, conversion trends, and customer sentiment insights**.  
 
