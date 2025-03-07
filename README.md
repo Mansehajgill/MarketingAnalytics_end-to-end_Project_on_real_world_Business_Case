@@ -10,7 +10,7 @@ ShopEasy, an **online retail business**, has been struggling with:
  **3. High marketing costs with low ROI** – Need to optimize strategies for better impact  
  **4. Mixed customer feedback** – Ratings remain stable but below the **4.0 target**  
 
-🔍 **My Role:** As a **Data Analyst**, you conducted a **comprehensive marketing analysis** to identify **engagement drivers, conversion trends, and customer sentiment insights**.  
+🔍 **My Role:** As a **Data Analyst**, I conducted a **comprehensive marketing analysis** to identify **engagement drivers, conversion trends, and customer sentiment insights**.  
 
 ---
 
