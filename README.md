@@ -27,7 +27,6 @@ ShopEasy, an **online retail business**, has been struggling with:
 ## 📊 Key Performance Indicators (KPIs)  
 📌 **Conversion Rate** → % of website visitors who complete a purchase  
 📌 **Customer Engagement Rate** → Clicks, likes, shares, and comments on content  
-📌 **Average Order Value (AOV)** → The average amount spent per transaction  
 📌 **Customer Feedback Score** → Sentiment ratings from customer reviews  
 
 ---
@@ -97,5 +96,3 @@ ShopEasy, an **online retail business**, has been struggling with:
 🔹 **Power BI** → Interactive dashboards & marketing insights visualization  
 
 ---
-
-## 📂 Project Structure  
