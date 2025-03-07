@@ -10,7 +10,7 @@ ShopEasy, an **online retail business**, has been struggling with:
  **3. High marketing costs with low ROI** – Need to optimize strategies for better impact  
  **4. Mixed customer feedback** – Ratings remain stable but below the **4.0 target**  
 
-🔍 **Your Role:** As a **Data Analyst**, you conducted a **comprehensive marketing analysis** to identify **engagement drivers, conversion trends, and customer sentiment insights**.  
+🔍 **My Role:** As a **Data Analyst**, you conducted a **comprehensive marketing analysis** to identify **engagement drivers, conversion trends, and customer sentiment insights**.  
 
 ---
 
@@ -33,7 +33,6 @@ ShopEasy, an **online retail business**, has been struggling with:
 
 ## 📊 Power BI Dashboard Overview  
 
-*(Replace these images with actual screenshots of your Power BI dashboard stored in the "screenshots" folder in your repository)*  
 
 ### 📍 **1. Overview Dashboard**  
 ![Overview Dashboard](./Screenshots/overview_dashboard.png)
