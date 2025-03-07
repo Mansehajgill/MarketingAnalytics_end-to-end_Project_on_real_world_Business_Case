@@ -58,9 +58,9 @@ We performed **sentiment analysis** on **customer reviews** to categorize feedba
 4️⃣ Assigning Sentiment Buckets**  
 
 ### **📊 Sentiment Analysis Findings:**  
-✔️ Positive Sentiment (36.17%)** – Majority of reviews express satisfaction  
-✔️ Negative Sentiment (10.71%)** – Common issues: product quality, delivery delays, pricing concerns  
-✔️ Mixed Reviews** – Some reviews indicate **both positive and negative aspects**, highlighting improvement areas  
+✔️ Positive Sentiment (36.17%) – Majority of reviews express satisfaction  
+✔️ Negative Sentiment (10.71%) – Common issues: product quality, delivery delays, pricing concerns  
+✔️ Mixed Reviews – Some reviews indicate both positive and negative aspects, highlighting improvement areas  
 ---
 ## 🏆 Final Insights & Recommendations  
 
