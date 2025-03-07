@@ -36,16 +36,16 @@ ShopEasy, an **online retail business**, has been struggling with:
 *(Replace these images with actual screenshots of your Power BI dashboard stored in the "screenshots" folder in your repository)*  
 
 ### 📍 **1. Overview Dashboard**  
-![Overview Dashboard](./screenshots/overview_dashboard.png)  
+![Overview Dashboard](./screenshots/overview_dashboard.png)
 
 ### 📍 **2. Conversion Trends**  
-![Conversion Trends Dashboard](./screenshots/conversion_dashboard.png)  
+![Conversion Trends Dashboard](./screenshots/conversion_dashboard.png) 
 
 ### 📍 **3. Customer Engagement Analysis**  
-![Customer Engagement Dashboard](./screenshots/engagement_dashboard.png)  
+![Customer Engagement Dashboard](./screenshots/engagement_dashboard.png)
 
 ### 📍 **4. Customer Feedback & Sentiment Analysis**  
-![Sentiment Analysis Dashboard](./screenshots/sentiment_dashboard.png)  
+![Sentiment Analysis Dashboard](./screenshots/sentiment_dashboard.png)
 
 ---
 ## **📝 Sentiment Analysis Using Python**  
