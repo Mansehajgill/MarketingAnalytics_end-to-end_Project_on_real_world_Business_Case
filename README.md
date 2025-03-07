@@ -48,7 +48,6 @@ ShopEasy, an **online retail business**, has been struggling with:
 ![Sentiment Analysis Dashboard](./screenshots/sentiment_dashboard.png)  
 
 ---
-### **🔹 Key Steps in Sentiment Analysis:**  
 ## **📝 Sentiment Analysis Using Python**  
 We performed **sentiment analysis** on **customer reviews** to categorize feedback into **Positive, Negative, and Mixed** categories using **VADER (Valence Aware Dictionary and Sentiment Reasoner)**.
 
