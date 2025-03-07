@@ -120,4 +120,4 @@ We performed **sentiment analysis** on **customer reviews** to categorize feedba
 
 📧 **Email:** mansehajgill19@gmail.com 
 
-🚀 **GitHub:** [Your GitHub Profile]  
+🚀 **GitHub:** (https://github.com/Mansehajgill) 
